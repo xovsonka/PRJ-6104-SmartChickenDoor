@@ -13,7 +13,7 @@ id_prefix: "thesis"
 locale: "sk"
 
 defaults:
-  author: "Roman Kazicka"
+  author: "Filip Chromek, Dominik Mojto, Alexander Ovšonka"
   status: "backlog"
   privacy: "public"
 

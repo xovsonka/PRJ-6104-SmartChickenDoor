@@ -7,5 +7,5 @@ template_body: "core/templates/content/knifes/body/index.md"
 id_prefix: "K"
 locale: "sk"
 defaults:
-  author: "Roman Kazicka"
+  author: "Filip Chromek, Dominik Mojto, Alexander Ovšonka"
   status: "backlog"

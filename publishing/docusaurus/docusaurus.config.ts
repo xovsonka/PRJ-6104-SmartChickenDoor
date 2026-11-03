@@ -14,7 +14,7 @@ const commitLink =
   GITHUB_REPO_URL && COMMIT_SHA ? `${GITHUB_REPO_URL}/commit/${COMMIT_SHA}` : '';
 
 const config: Config = {
-  title: 'KNIFE - STHDF 2026-2027 - Student Template',
+  title: 'PRJ-6104 – Smart Chicken Door',
   url: SITE_URL,
   baseUrl: BASE_URL,
   deploymentBranch: 'gh-pages',
@@ -59,7 +59,7 @@ const config: Config = {
       },
     },
     navbar: {
-      title: 'KNIFE - STHDF 2026-2027 - Student Template',
+      title: 'PRJ-6104 – Smart Chicken Door',
       logo: {
         alt: 'KNIFE',
         src: 'img/logo.png',
