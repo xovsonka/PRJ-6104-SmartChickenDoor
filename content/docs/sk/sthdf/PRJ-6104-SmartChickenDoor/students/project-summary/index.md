@@ -144,9 +144,9 @@ fm_reserved2: ""
 
 | ST ID | Meno | Rola v tíme | Kompetencie |
 |-------|------|-------------|-------------|
-| ST0XX | Filip Chromek | _doplniť_ | _doplniť_ |
-| ST0XX | Dominik Mojto | _doplniť_ | _doplniť_ |
-| ST0XX | Alexander Ovšonka | _doplniť_ | _doplniť_ |
+| ST0XX | Filip Chromek | PM – Project Manager | koordinácia tímu, plán a míľniky, dokumentácia, prezentácie |
+| ST0XX | Dominik Mojto | SW – Software Developer | firmvér ESP32, webové rozhranie a API, logika režimov |
+| ST0XX | Alexander Ovšonka | HW – Hardware Engineer | mechanika a 3D tlač, zapojenie elektroniky, senzory a pohon |
 
 ## 3️⃣ Motivácia tímu
 - Prečo ste si vybrali tento projekt? _(doplňte)_

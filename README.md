@@ -8,9 +8,9 @@ Tímový projekt pre predmet **Systémové myslenie v IT a digitálna fabrikáci
 
 | Meno | Rola |
 |---|---|
-| Filip Chromek | _doplniť_ |
-| Dominik Mojto | _doplniť_ |
-| Alexander Ovšonka | _doplniť_ |
+| Filip Chromek | PM – projektový manažér |
+| Dominik Mojto | SW – firmvér a webové rozhranie |
+| Alexander Ovšonka | HW – mechanika a elektronika |
 
 ## 🧾 Prehľad riešenia
 
